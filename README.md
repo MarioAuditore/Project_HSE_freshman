@@ -8,4 +8,5 @@
 Contributors:\
 Elfat Sabitov https://github.com/MarioAuditore/Project_HSE_freshman \
 Alexey Soldatov https://github.com/Alex193/HSE \
+Кesearch supervisor: Fedor Ivanov https://www.hse.ru/org/persons/196145945 \
 The aim of this project -- prediction of webpage conversions and bid optimization. We used the statistics of websites over 1 month period stored in Excel tables and used it in out python algorithm.
